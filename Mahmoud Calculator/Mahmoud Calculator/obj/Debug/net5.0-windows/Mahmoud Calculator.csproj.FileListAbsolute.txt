@@ -1,0 +1,19 @@
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\bin\Debug\net5.0-windows\Mahmoud Calculator.exe
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\bin\Debug\net5.0-windows\Mahmoud Calculator.deps.json
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\bin\Debug\net5.0-windows\Mahmoud Calculator.runtimeconfig.json
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\bin\Debug\net5.0-windows\Mahmoud Calculator.runtimeconfig.dev.json
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\bin\Debug\net5.0-windows\Mahmoud Calculator.dll
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\bin\Debug\net5.0-windows\ref\Mahmoud Calculator.dll
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\bin\Debug\net5.0-windows\Mahmoud Calculator.pdb
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud Calculator.csproj.AssemblyReference.cache
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud_Calculator.Simple_Calculator.resources
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud_Calculator.Properties.Resources.resources
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud Calculator.csproj.GenerateResource.cache
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud Calculator.AssemblyInfoInputs.cache
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud Calculator.AssemblyInfo.cs
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud Calculator.csproj.CoreCompileInputs.cache
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud Calculator.dll
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\ref\Mahmoud Calculator.dll
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud Calculator.pdb
+F:\My Projects\Mahmoud Calculator\Mahmoud Calculator\obj\Debug\net5.0-windows\Mahmoud Calculator.genruntimeconfig.cache
